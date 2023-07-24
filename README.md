@@ -2,8 +2,10 @@
 
 Os termos paramétrico e não-paramétrico referem-se à média e ao desvio-padrão, que são os parâmetros que definem as populações que apresentam distribuição normal. 
 Quando um pesquisador utiliza:
+
 - testes paramétricos: supõe-se que a distribuição de seus dados experimentais seja normal.
 - testes não-paramétricos: supõe-se que a distribuição de seus dados experimentais não seja normal.
+
 Na dúvida quanto a essa informação, nada impede que ele opte pelo uso da estatística não-paramétrica. O que ele não pode fazer, de modo algum, é argumentar em termos de desvios ou erros padrões, embora possa perfeitamente fazê-lo pura e simplesmente em termos de médias.
 
 <table border="1">
