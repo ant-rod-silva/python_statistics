@@ -16,10 +16,10 @@
     <td>Vinculados</td>
 </tr>
 <tr>
-    <td>Linha 2, Coluna 1</td>
-    <td>Linha 2, Coluna 2</td>
-    <td>Linha 2, Coluna 3</td>
-    <td>Linha 2, Coluna 4</td>
+    <td>2 amostras</td>
+    <td>2 amostras</td>
+    <td>2 amostras</td>
+    <td>2 amostras</td>
  </tr>
  <tr>
     <td>Linha 3, Coluna 1</td>
