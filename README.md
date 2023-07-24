@@ -1,11 +1,5 @@
 # python_statistics
 
-<!DOCTYPE html>
-<html>
-<head>
-    <title>Tabela HTML</title>
-</head>
-<body>
     <table border="1">
         <tr>
             <th colspan="4">Testes estatísticos</th>
@@ -57,5 +51,3 @@
             <td>Linha 7, Coluna 4</td>
         </tr>
     </table>
-</body>
-</html>
