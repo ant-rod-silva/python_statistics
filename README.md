@@ -7,7 +7,6 @@
 - Kolmogorov-Smirnov: scipy.stats.kstest
 - D’Agostino’s K-squared test: scipy.stats.normaltest
 - Lilliefors: statsmodels.stats.diagnostic.lilliefors
-- ShapiroFrancia
 - Cramer-von Mises
 
 ### Referências
