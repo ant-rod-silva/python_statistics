@@ -8,17 +8,17 @@
 <body>
     <table border="1">
         <tr>
-            <th colspan="4">Tabela com colunas mergeadas</th>
+            <th colspan="4">Testes estatísticos</th>
         </tr>
         <tr>
-            <th colspan="2">Coluna 1 e 2</th>
-            <th colspan="2">Coluna 3 e 4</th>
+            <th colspan="2">Paramétricos</th>
+            <th colspan="2">Não-paramétricos</th>
         </tr>
         <tr>
-            <td>Linha 1, Coluna 1</td>
-            <td>Linha 1, Coluna 2</td>
-            <td>Linha 1, Coluna 3</td>
-            <td>Linha 1, Coluna 4</td>
+            <td>Independentes</td>
+            <td>Vinculados</td>
+            <td>Independentes</td>
+            <td>Vinculados</td>
         </tr>
         <tr>
             <td>Linha 2, Coluna 1</td>
