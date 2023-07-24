@@ -5,7 +5,7 @@
 - Shapiro-Wilk: scipy.stats.shapiro
 - Anderson-Darling: scipy.stats.anderson
 - Kolmogorov-Smirnov: scipy.stats.kstest
-- D’Agostino, R. and Pearson, E. S. (1973): scipy.stats.normaltest
+- D’Agostino’s K-squared test: scipy.stats.normaltest
 - Lilliefors
 - ShapiroFrancia
 - Cramer-von Mises
