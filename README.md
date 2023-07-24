@@ -8,6 +8,10 @@ Quando um pesquisador utiliza:
 
 Na dúvida quanto a essa informação, nada impede que ele opte pelo uso da estatística não-paramétrica. O que ele não pode fazer, de modo algum, é argumentar em termos de desvios ou erros padrões, embora possa perfeitamente fazê-lo pura e simplesmente em termos de médias.
 
+Os detalhes que devem orientar a escolha do teste são:
+a) a existência ou não de vinculação entre dois ou mais fatores de variação;
+b) o número de componentes da amostra, que vão ser comparados.
+
 <table border="1">
 <tr>
     <th colspan="4">Testes estatísticos</th>
