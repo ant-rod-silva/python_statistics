@@ -6,7 +6,7 @@
 - Anderson-Darling: scipy.stats.anderson
 - Kolmogorov-Smirnov: scipy.stats.kstest
 - D’Agostino’s K-squared test: scipy.stats.normaltest
-- Lilliefors
+- Lilliefors: statsmodels.stats.diagnostic.lilliefors
 - ShapiroFrancia
 - Cramer-von Mises
 
