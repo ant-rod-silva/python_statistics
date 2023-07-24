@@ -12,6 +12,7 @@
 
 ### Referências
 
+- Shapiro, S. S. & Wilk, M.B (1965). An analysis of variance test for normality (complete samples), Biometrika, Vol. 52, pp. 591-611.
 - D’Agostino, R. B. (1971), “An omnibus test of normality for moderate and large sample size”, Biometrika, 58, 341–348
 - D’Agostino, R. and Pearson, E. S. (1973), “Tests for departure from normality”, Biometrika, 60, 613–622.
 - Anderson, T. W.; Darling, D. A. (1952). “Asymptotic theory of certain “goodness-of-fit” criteria based on stochastic processes”, Annals of Mathematical Statistics, 23, 193–212.
