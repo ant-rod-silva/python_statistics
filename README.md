@@ -45,7 +45,7 @@ Os detalhes que devem orientar a escolha do teste são:
     <td>Teste t (Student)</td>
     <td>Teste t (Student)</td>
     <td>Mann-Whitney</td>
-    <td>Wilcoxon<br/>T. dos sinais<br/>Mac Nemar<br/>Binomial</td>
+    <td>Wilcoxon</td>
   </tr>
   <tr>
     <td>Mais de duas</td>
