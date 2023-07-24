@@ -28,10 +28,10 @@
     <td>Linha 3, Coluna 4</td>
   </tr>
   <tr>
-    <td>Linha 4, Coluna 1</td>
-    <td>Linha 4, Coluna 2</td>
-    <td>Linha 4, Coluna 3</td>
-    <td>Linha 4, Coluna 4</td>
+    <td>Mais de duas</td>
+    <td>Mais de duas</td>
+    <td>Mais de duas</td>
+    <td>Mais de duas</td>
   </tr>
   <tr>
     <td>Linha 5, Coluna 1</td>
