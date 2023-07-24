@@ -1,5 +1,6 @@
 # python_statistics
 
+Os termos paramétrico e não-paramétrico referem-se à média e ao desvio-padrão, que são os parâmetros que definem as populações que apresentam distribuição normal. 
 
 <table border="1">
 <tr>
