@@ -1,10 +1,13 @@
 # python_statistics
 
-## Testes de normalidade
+## Testes de verificação de aderência à Distribuição Normal 
 
 - Shapiro-Wilk
 - Anderson-Darling
 - Kolmogorov-Smirnov
+- Lilliefors
+- ShapiroFrancia
+- Cramer-von Mises
 
 ## Testes paramétricos e não paramétricos
 
