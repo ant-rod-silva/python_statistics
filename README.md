@@ -10,6 +10,13 @@
 - ShapiroFrancia
 - Cramer-von Mises
 
+1.D’Agostino, R. B. (1971), “An omnibus test of normality for moderate and large sample size”, Biometrika, 58, 341–348
+2.D’Agostino, R. and Pearson, E. S. (1973), “Tests for departure from normality”, Biometrika, 60, 613–622.
+4. Anderson, T. W.; Darling, D. A. (1952). “Asymptotic theory of certain “goodness-of-fit” criteria based on stochastic processes”, Annals of Mathematical Statistics, 23, 193–212.
+5. Anderson, T.W.; Darling, D.A. (1954). “A Test of Goodness-of-Fit”, Journal of the American Statistical Association, 49, 765–769.
+6. Kolmogorov–Smirnov Test (2008). In: The Concise Encyclopedia of Statistics. Springer, New York, NY.
+7. Lilliefors, Hubert W. (1967–06–01). “On the Kolmogorov-Smirnov Test for Normality with Mean and Variance Unknown”. Journal of the American Statistical Association. 62 (318): 399–402.
+
 ## Testes paramétricos e não paramétricos
 
 Os termos paramétrico e não-paramétrico referem-se à média e ao desvio-padrão, que são os parâmetros que definem as populações que apresentam distribuição normal. 
