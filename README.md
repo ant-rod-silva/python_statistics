@@ -1,9 +1,10 @@
 # python_statistics
 
 ## Testes de normalidade
-Shapiro-Wilk
-Anderson-Darling
-Kolmogorov-Smirnov
+
+- Shapiro-Wilk
+- Anderson-Darling
+- Kolmogorov-Smirnov
 
 ## Testes paramétricos e não paramétricos
 
