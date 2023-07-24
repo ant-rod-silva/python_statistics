@@ -2,9 +2,11 @@
 
 ## Testes de verificação de aderência à Distribuição Normal 
 
-- Shapiro-Wilk
-- Anderson-Darling
-- Kolmogorov-Smirnov
+scipy.stats.normaltest
+
+- Shapiro-Wilk: scipy.stats.shapiro
+- Anderson-Darling: scipy.stats.anderson
+- Kolmogorov-Smirnov: scipy.stats.kstest
 - Lilliefors
 - ShapiroFrancia
 - Cramer-von Mises
