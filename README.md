@@ -1,6 +1,9 @@
 # python_statistics
 
 Os termos paramétrico e não-paramétrico referem-se à média e ao desvio-padrão, que são os parâmetros que definem as populações que apresentam distribuição normal. 
+Quando um pesquisador utiliza:
+- testes paramétricos: supõe-se que a distribuição de seus dados experimentais seja normal.
+- testes não-paramétricos: supõe-se que a distribuição de seus dados experimentais não seja normal.
 
 <table border="1">
 <tr>
