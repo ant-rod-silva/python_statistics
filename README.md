@@ -25,7 +25,7 @@
     <td>Teste t (Student)</td>
     <td>Teste t (Student)</td>
     <td>Mann-Whitney<br/>T da mediana<br/>Qui-quadrado<br/>Proporções<br/>Exato (Fisher)</td>
-    <td>Wilcoxon</td>
+    <td>Wilcoxon<br/>T. dos sinais<br/>Mac Nemar<br/>Binomial</td>
   </tr>
   <tr>
     <td>Mais de duas</td>
