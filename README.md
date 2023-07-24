@@ -24,7 +24,7 @@
  <tr>
     <td>Teste t (Student)</td>
     <td>Teste t (Student)</td>
-    <td>Mann-Whitney<br/>T da mediana<br/>Qui-quadrado<br/>Proporções<br/>Exato (Fisher)</td>
+    <td>Mann-Whitney<br/>T da mediana<br/>Qui-quadrado (2 x 2)<br/>Proporções<br/>Exato (Fisher)</td>
     <td>Wilcoxon<br/>T. dos sinais<br/>Mac Nemar<br/>Binomial</td>
   </tr>
   <tr>
@@ -36,7 +36,7 @@
   <tr>
     <td>Análise de variância</td>
     <td>Análise de variância</td>
-    <td>Linha 5, Coluna 3</td>
+    <td>Kruskal-Wallis<br>Mediana (m x n)<br/>Qui-quadrado (m x n)<br>Nemenyi</td>
     <td>Cochran</td>
   </tr>
 </table>
