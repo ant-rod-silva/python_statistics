@@ -22,10 +22,10 @@
     <td>2 amostras</td>
  </tr>
  <tr>
-    <td>Linha 3, Coluna 1</td>
-    <td>Linha 3, Coluna 2</td>
-    <td>Linha 3, Coluna 3</td>
-    <td>Linha 3, Coluna 4</td>
+    <td>Teste t (Student)</td>
+    <td>Teste t (Student)</td>
+    <td>Mann-Whitney<br/>T da mediana<br/>Qui-quadrado<br/>Proporções<br/>Exato (Fisher)</td>
+    <td>Wilcoxon</td>
   </tr>
   <tr>
     <td>Mais de duas</td>
