@@ -34,22 +34,10 @@
     <td>Mais de duas</td>
   </tr>
   <tr>
-    <td>Linha 5, Coluna 1</td>
-    <td>Linha 5, Coluna 2</td>
+    <td>Análise de variância</td>
+    <td>Análise de variância</td>
     <td>Linha 5, Coluna 3</td>
-    <td>Linha 5, Coluna 4</td>
+    <td>Cochran</td>
   </tr>
-  <tr>
-    <td>Linha 6, Coluna 1</td>
-    <td>Linha 6, Coluna 2</td>
-    <td>Linha 6, Coluna 3</td>
-    <td>Linha 6, Coluna 4</td>
-   </tr>
-   <tr>
-    <td>Linha 7, Coluna 1</td>
-    <td>Linha 7, Coluna 2</td>
-    <td>Linha 7, Coluna 3</td>
-    <td>Linha 7, Coluna 4</td>
-   </tr>
 </table>
 
