@@ -1,5 +1,12 @@
 # python_statistics
 
+## Testes de normalidade
+Shapiro-Wilk
+Anderson-Darling
+Kolmogorov-Smirnov
+
+## Testes paramétricos e não paramétricos
+
 Os termos paramétrico e não-paramétrico referem-se à média e ao desvio-padrão, que são os parâmetros que definem as populações que apresentam distribuição normal. 
 Quando um pesquisador utiliza:
 
