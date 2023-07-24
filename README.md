@@ -56,7 +56,7 @@ Os detalhes que devem orientar a escolha do teste são:
   <tr>
     <td>Análise de variância</td>
     <td>Análise de variância</td>
-    <td>Kruskal-Wallis<br>Mediana (m x n)<br/>Qui-quadrado (m x n)<br>Nemenyi</td>
+    <td>Kruskal-Wallis</td>
     <td>Cochran</td>
   </tr>
 </table>
